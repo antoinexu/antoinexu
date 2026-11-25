@@ -20,6 +20,6 @@ PHP · TypeScript · JavaScript · SQL · Python · Go · Node.js · React · SQ
 
 ## More
 
-[Portfolio and case studies](https://antoinexu.github.io) · [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN)
+[Portfolio and case studies](https://antoinexu.github.io)
 
 Off the keyboard I play Go competitively: AGA 6-dan and two-time Houston Go Tournament champion.
